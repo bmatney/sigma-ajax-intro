@@ -13,12 +13,6 @@
         "imageURL" : "https://media.licdn.com/media/AAEAAQAAAAAAAAeaAAAAJDhkZjU3M2U4LTk2ZGMtNGYwYS1hNjU5LWIwZmMwODdjMDhlZQ.jpg"
     },
     {
-        "name"     : "Casie Siekman",
-        "position" : "T.A.",
-        "location" : "Minneapolis",
-        "imageURL" : "https://media.licdn.com/media/AAEAAQAAAAAAAAO0AAAAJGM4MmE5NDZiLWFmY2ItNDk0Ny1iNjlhLWQyOTFmNmRiZWIzMA.jpg"
-    },
-    {
         "name": "Fred Sheahan",
         "position": "Learning Environment Engineer",
         "location": "Eden Prairie",
